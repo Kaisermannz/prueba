@@ -1,2 +1,2 @@
-.[!WARNING].
-wena shusheta
+> .[!WARNING].
+> wena shusheta
